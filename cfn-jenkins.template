@@ -40,12 +40,6 @@
       "ConstraintDescription": "Must be a valid list of VPC Subnets."
     },
 
-    "AutoscalingGroupAZs": {
-      "Description": "List of availability zones for the Autoscaling group",
-      "Type": "CommaDelimitedList",
-      "ConstraintDescription": "Must be a valid list of Availabilty Zones that match the AZs of the PublicSubnets list."
-    }
-
   },
 
   "Mappings": {
