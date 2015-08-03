@@ -40,7 +40,6 @@
       "ConstraintDescription": "Must be a valid list of VPC Subnets."
     },
 
-  },
 
   "Mappings": {
     "AWSInstanceType2Arch": {
